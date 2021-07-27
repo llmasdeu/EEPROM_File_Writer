@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="EEPROMFileWriter:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/EEPROMFileWriter_jar</output-path>
+    <root id="archive" name="EEPROMFileWriter.jar">
+      <element id="module-output" name="EEPROMFileWriter" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/gson-2.8.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/jackson-annotations-2.0.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/jackson-databind-2.0.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/jackson-core-2.0.0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
